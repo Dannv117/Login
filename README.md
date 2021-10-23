@@ -1,5 +1,5 @@
 # Login
-Login, sistema de información de pausas activas mentales DINAMICLASS
+Este es el Login de el sistema de información para pausas activas mentales en aulas virtuales DINAMICLASS
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
