@@ -1,25 +1,20 @@
-# Login
-Este es el Login de el sistema de información para pausas activas mentales en aulas virtuales DINAMICLASS
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
-
-<div align="center">
-(っ◔◡◔)っ ♥ 𝖙𝖔 𝖒𝖞 𝖕𝖊𝖗𝖘𝖔𝖓𝖆𝖑 𝕲𝖎𝖙𝕳𝖚𝖇 𝖕𝖗𝖔𝖋𝖎𝖑𝖊! ♥
-</div>
-<hr>
-
-<div align="center">
-<p>🅷🅰🆅🅴 🅰 🅶🅾🅾🅳 🅳🅰🆈!</p>
+<img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif">
+<img align='right' src="https://media.giphy.com/media/EqKDXv0cPa6TLqfEON/giphy.gif" width="230">
 <div>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="Smiley" align="center" height="60">
+Welcome to my Github profile <br>
+- 🔭 &nbsp;I'm currently working on database development 😉<br>
+- 🌱 &nbsp;I'm currently studying.<br>
+- 👨‍💻 &nbsp;How to reach me: <a href="https://www.instagram.com/danna.valencia_/">Danna Valencia</a> <br>
+- ⚡ &nbsp;Fun fact: I :heart: 😸s
 </div>
-</div>
-<div>
-<h2 align = "center"> 💖 ~ 𝖙𝖍𝖆𝖓𝖐𝖘 𝖋𝖔𝖗 𝖗𝖊𝖆𝖉𝖎𝖓𝖌 ♥  </h2>
-<div align = "center">
-<img src = "https://i.imgur.com/jx17oHT.gif">
-</div>
-<hr>
-</div>
-</div>
+<h2>🚀 Some Tools I Use</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+
+</p>
